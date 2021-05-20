@@ -1,6 +1,6 @@
 # react-pdf-js
 
-`react-pdf-js` provides a component for rendering PDF documents using [PDF.js](http://mozilla.github.io/pdf.js/).
+`react-pdf-js` provides a component for rendering PDF documents using [PDF.js](http://mozilla.github.io/pdf.js/). Forked from https://github.com/mikecousins/react-pdf-js to fix module export.
 
 ---
 
